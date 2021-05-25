@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gregory-Gelfond
-- 👀 I’m interested in artificial intelligence, knowledg representation and reasoning, answer-set programming.
+- 👀 I’m interested in artificial intelligence, knowledge representation and reasoning, answer-set programming.
 - 🌱 I’m currently making the move from academia to the private sector.
 - 💞️ I’m looking to collaborate on research projects on understandability in AI and causal reasoning, and the applications of answer-set programming and knowledge representation (to name but a few areas).
 - 📫 How to reach me (if you know you know).
